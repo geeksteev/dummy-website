@@ -16,3 +16,17 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 
+# DigitalOcean Droplets
+104.131.26.172 cyber-web-00
+174.138.68.78 cyber-web-01
+174.138.68.53 cyber-web-02
+174.138.68.54 cyber-web-03
+174.138.68.55 cyber-web-04
+174.138.68.64 cyber-web-05
+174.138.68.72 cyber-web-06
+174.138.68.56 cyber-web-07
+174.138.68.61 cyber-web-08
+174.138.68.49 cyber-web-09
+174.138.68.59 cyber-web-10
+
+
