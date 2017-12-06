@@ -31,7 +31,7 @@
     <!-- Header -->
     <header class="bg-primary text-white text-center">
       <div class="container">
-	<h1 class="mb-0">Cyber Worldwide</h1>
+	<h1 class="text-uppercase mb-0">Cyber Worldwide</h1>
 	<hr class="star-light">
         <img class="img-fluid mb-5 d-block mx-auto" src="img/profile.png" alt="">
       </div>
@@ -55,11 +55,20 @@
 <!-- Footer -->
     <footer class="footer text-center">
       <div class="container">
-        <div class="row footer">
+        <div class="row">
           <div class="col-md-4 mb-5 mb-lg-0">
-            <h4 class="text-uppercase mb-4"></h4>
-            <p class="lead mb-0">
-              <br></p>
+            <h4 class="text-uppercase mb-4">Location</h4>
+            <p class="lead mb-0">1 Minuteman Way
+              <br>Concord, NH 03301</p>
+          </div>
+          <div class="col-md-4 mb-5 mb-lg-0">
+            <ul class="list-inline mb-0">
+              <li class="list-inline-item">
+                <a class="btn btn-outline-light btn-social text-center rounded-circle" href="#">
+                  <i class="fa fa-fw fa-github"></i>
+                </a>
+              </li>
+            </ul>
           </div>
         </div>
       </div>
